@@ -1,9 +1,6 @@
-Aquí tienes una versión completa, ordenada y lista para pegar en tu perfil de GitHub. Añadí tus intereses en visión por computadora, IA multimodal y búsqueda de imágenes, presentándolos como temas que estás explorando.
-
-```markdown
 # Hi there! I'm Patricia Rebatta Jeri 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Aspiring+Data+Scientist;Data+Analysis+%7C+Machine+Learning;Computer+Vision+%7C+Multimodal+AI)
+![Typing SVG](https://readme-typing-svg.demolab.com/?
 
 > *"Where science meets computing, data becomes knowledge and ideas become solutions."*
 
