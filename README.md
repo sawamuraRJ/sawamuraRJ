@@ -1,10 +1,22 @@
-# Hi there! I'm Patricia Rebatta Jeri 👋
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?
+# Hi there, I'm Patricia Rebatta Jeri 👋
 
-> *"Where science meets computing, data becomes knowledge and ideas become solutions."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Data+Scientist;Machine+Learning+%7C+Computer+Vision;Multimodal+AI+%7C+Semantic+Image+Search" alt="Computer Engineering Student | Aspiring Data Scientist | Machine Learning | Computer Vision"/>
 
-🎓 Computer Engineering student passionate about **Data Science, Machine Learning, and Data Analytics**. Currently exploring **Computer Vision, Multimodal AI, and semantic image search** through projects that connect machine learning models with web applications.
+<br>
+
+*“Where science meets computing, data becomes knowledge and ideas become solutions.”*
+
+<br>
+
+🎓 **Computer Engineering student** passionate about **Data Science, Machine Learning, and Data Analytics**.
+
+Currently exploring **Computer Vision, Multimodal AI, and semantic image search** through projects that connect machine learning models with web applications.
+
+</div>
+
+---
 
 ---
 
